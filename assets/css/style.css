@@ -1,0 +1,71 @@
+body{
+    background-image: url("../images/grey_wash_wall.png");
+}
+
+#header{
+background-color:#001f3f;
+text-align: center;
+width:100;
+padding-bottom:0;
+
+}
+#name{
+    color:white;
+    font-family: 'Aref Ruqaa', serif;
+}
+#imageOne{
+    height:300px;
+    width:300px;
+}
+#aboutMeText{
+    color:white;
+    font-family: 'Merriweather', serif;
+    font-size:17px;
+}
+#aboutMeSection{
+    padding-top:3%;
+    padding-bottom:5%;
+
+    background-color:#001f3f;
+}
+#footer{
+    background-color: #001f3f;
+    color:white;
+    margin-top: 3%;
+}
+#footerText{
+    padding-left:47%;
+    font-family: 'Aref Ruqaa', serif;
+}
+#linkedButton{
+    margin-top:7%;
+    margin-left:45%;
+}
+
+#navigate{
+    color:white;
+    text-align: right;
+}
+#dropdownItems{
+    background-color: #001f3f;
+}
+#dropText{
+    color:white;
+}
+#projectTitle{
+    text-align: center;
+    background-color: #001f3f;
+    padding-bottom:5%;
+}
+#projectText{
+    color:white;
+    font-family: 'Aref Ruqaa', serif;
+    text-decoration:underline;
+    padding-bottom:5%;
+    font-size:40px;
+}
+.projectInfo{
+    color:white;
+    font-family: 'Merriweather', serif;
+    font-size:20px;
+}
