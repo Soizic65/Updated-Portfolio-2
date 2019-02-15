@@ -13,6 +13,11 @@ padding-bottom:0;
     color:white;
     font-family: 'Aref Ruqaa', serif;
 }
+#email{
+    color:white;
+    font-family: 'Aref Ruqaa', serif;
+    text-align:center;
+}
 #imageOne{
     height:300px;
     width:300px;
@@ -69,3 +74,21 @@ padding-bottom:0;
     font-family: 'Merriweather', serif;
     font-size:20px;
 }
+#projectImages{
+    height:180px;
+    width:200px;;
+}
+#projectLinks{
+    color:white;
+    font-family: 'Merriweather', serif;
+}
+
+.centered {
+    color:white;
+    font-family: 'Merriweather', serif;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    margin-top:70px;
+  }
